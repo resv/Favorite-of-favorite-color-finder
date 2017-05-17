@@ -29,4 +29,4 @@ var thinking6 = alert('BEEP');
 var thinking7 = alert('BOOP');
 
 var end = alert('OK! the results are in! We have concluded that out of all your favorite colors, you liked ' +result+ ' the best!');
-var ending = alert('Now when people ask you for your favorite color, you can tell them your result today or try this again sometime in the future, but for now ' +result+ ' is your faovite color!');
+var ending = alert('Now when people ask you for your favorite color, you can tell them your result today or try this again sometime in the future, but for now ' +result+ ' is your favorite color!');
